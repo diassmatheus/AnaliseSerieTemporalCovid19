@@ -1,4 +1,4 @@
-# # <p align="center"> <b> Curso: Análise de série temporal - COVID-19 </b> 
+# <p align="center"> <b> Curso: Análise de série temporal - COVID-19 </b> 
 
 ####  📓 <a href="link">Notebook</a> desenvolvido durante o curso 
 ####  ✏️ Curso da plataforma <a href="https://cursos.alura.com.br/course/analise-serie-temporal-covid-19">Alura</a> 
